@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /about/
 ---
 
