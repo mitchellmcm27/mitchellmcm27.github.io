@@ -1,10 +1,11 @@
 ---
 layout: article
 permalink: /about/
+title: "About"
 image:
-  feature: me.png
-  credit: Roy Brown
-  creditlink: https://www.facebook.com/roy.brown.758
+  feature: about-feature-cropped.png
+  credit: Hiking in Grand Teton National Park
+  creditlink: https://www.flickr.com/photos/mitchellmcmillan/
 ---
 
 I graduated with a B.Sc. in Geology from the University of Alabama, and I recently received my M.Sc. in Environmental Science from the University of West Florida. I am currently pursuing a Ph.D. in tectonic geomorphology at the University of Toronto ([advisor Lindsay Schoenbohm](www.lindsay-schoenbohm.com).

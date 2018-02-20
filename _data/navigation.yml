@@ -4,3 +4,13 @@
   url: /about/
   excerpt: "About me"
   image: bio-photo.jpg
+
+- title: Papers
+  url: /papers/
+  excerpt: "Scientific publications"
+  image: bio-photo.jpg
+
+- title: Software
+  url: /software/
+  excerpt: "Software repositories"
+  image: bio-photo.jpg
