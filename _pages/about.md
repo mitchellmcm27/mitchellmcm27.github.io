@@ -3,7 +3,9 @@ layout: article
 permalink: /about/
 ---
 
-I graduated with a B.Sc. in Geology from the University of Alabama, and I recently received my M.Sc. in Environmental Science from the University of West Florida. I am currently pursuing a Ph.D. in tectonic geomorphology at the University of Toronto ((advisor Lindsay Schoenbohm)[www.lindsay-schoenbohm.com]).
+I graduated with a B.Sc. in Geology from the University of Alabama, and I recently received my M.Sc. in Environmental Science from the University of West Florida. I am currently pursuing a Ph.D. in tectonic geomorphology at the University of Toronto ([advisor Lindsay Schoenbohm](www.lindsay-schoenbohm.com).
+
+![Me]({{ "/images/me.png" }})
 
 For my M.Sc. thesis, I investigated the physical and environmental controls on streambank erosion in the U.S. Gulf of Mexico Coastal Plain through an extensive field and modeling effort to answer the question, can we predict with any confidence how much a given streambank will erode over time, and thus how much sediment it will yield (at least in the Gulf Coastal plain)? I combined remotely sensed tree biomass data, a global land-surface model, and a state of the art hydrodynamic model to develop a reasonably accurate model for streambank erosion. This work culminated in the publication of three manuscripts.
 
